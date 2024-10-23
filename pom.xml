@@ -7,6 +7,7 @@
   <version>1.0-SNAPSHOT</version>
   <name>01-Maven-App</name>
   <url>http://maven.apache.org</url>
+  <Https>tcp</https>
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
