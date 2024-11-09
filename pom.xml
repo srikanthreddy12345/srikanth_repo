@@ -7,6 +7,7 @@
   <version>1.0-SNAPSHOT</version>
   <name>01-Maven-App</name>
   <url>http://maven.apache.org</url>
+<<<<<<< HEAD
 
 <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
@@ -23,11 +24,14 @@
         </repository>
     </distributionManagement>
 
+=======
+  <Https>tcp</https>
+>>>>>>> e41939e1015c90cdc2af13dd59de3a004563139e
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
-      <version>3.8.1</version>
+      <version>3.8.2</version>
       <scope>test</scope>
     </dependency>
   </dependencies>
